@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.1/Qeike-Setup-1.0.1.exe",
-  "sha256": "768e52571adb750e82d51ebff85277657adb41ba3e566d8e832b3ca6cb395ebd",
-  "size": 99893330,
-  "notes": "· 新增「批量改尺寸」：按比例、指定宽高或长边缩放，可设置画质、格式和目标文件大小\n· 长图切片时显示每一片的预计文件大小\n· 新增在线更新：以后有新版本会自动提示，一键更新\n· 界面和说明文字更清楚易懂",
+  "version": "1.0.2",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.2/Qeike-Setup-1.0.2.exe",
+  "sha256": "1ef32fff2e71c940fafef8c730466fabf651866946da8566081fdd1a2cc309b4",
+  "size": 143228219,
+  "notes": "Qeike 1.0.2 更新内容：\n· 新增「图片压缩」：批量压缩 JPG / PNG / WebP，可预览对比、指定大小，不会覆盖原图。\n· 新增「视频 / GIF」：视频转 GIF、GIF 转 MP4（内置 FFmpeg，LGPL）。\n· 新增「重复 / 相似图片」：找出完全重复、同图不同尺寸和高度相似的图片；默认不勾选，每组至少保留一张，只移入回收站。\n· 切片可以保存为工程文件（.qkp），记住参考线、导出设置和缩放位置；支持 Ctrl+S / 另存为，关闭前提醒保存。\n· 创意画布新增「浏览器采集」安装向导、一键修复连接，以及「紧凑」排版。\n· 同一张图从不同网页采集时只存一份文件，但每条都保留自己的名字和来源。",
   "releasedAt": "2026-10-09"
 }
