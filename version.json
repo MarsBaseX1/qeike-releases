@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.1/Qeike-Setup-1.0.1.exe",
+  "sha256": "768e52571adb750e82d51ebff85277657adb41ba3e566d8e832b3ca6cb395ebd",
+  "size": 99893330,
+  "notes": "· 新增「批量改尺寸」：按比例、指定宽高或长边缩放，可设置画质、格式和目标文件大小\n· 长图切片时显示每一片的预计文件大小\n· 新增在线更新：以后有新版本会自动提示，一键更新\n· 界面和说明文字更清楚易懂",
+  "releasedAt": "2026-10-09"
+}
