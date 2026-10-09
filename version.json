@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.6/Qeike-Setup-1.0.6.exe",
-  "sha256": "b9f964340091a1580cb0d4fc1b8133704e62f1faba976f24258036a0a562a3db",
-  "size": 143294257,
-  "notes": "Qeike 1.0.6\n- 深色模式补全：全应用面板 / 对话框 / 标签 / 滚动条 / 标尺跟随主题\n- 侧栏底部滑动开关切换亮色 / 深色（长按可选跟随系统）\n- 画布 / 切片空状态整块居中，快捷键不拆行\n- 「使用前请了解」中英提示语气更温和，法律含义不变\n- 不改动授权密钥与 DNS",
+  "version": "1.0.7",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.7/Qeike-Setup-1.0.7.exe",
+  "sha256": "d31b66d9fe2d90375e7841b23f066ff9573f41aa56a6f5fbd93f36b6f0cac0df",
+  "size": 143294918,
+  "notes": "改进更新检查",
   "releasedAt": "2026-10-09"
 }
