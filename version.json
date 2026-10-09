@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.7/Qeike-Setup-1.0.7.exe",
-  "sha256": "d31b66d9fe2d90375e7841b23f066ff9573f41aa56a6f5fbd93f36b6f0cac0df",
-  "size": 143294918,
-  "notes": "改进更新检查",
+  "version": "1.0.8",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.8/Qeike-Setup-1.0.8.exe",
+  "sha256": "83b94f5cd843d6c454dd41e17c67854d0c67790179c50eb738a3ba0c4ded91d9",
+  "size": 143297741,
+  "notes": "1.0.8\n\n- 侧栏主题开关更紧凑\n- 对话框背景不透明，不再透出底层页面\n- 「文件夹」改名为「素材分组」：新建 / 改名更可靠，列表可滚动\n- 「切片」改名为「图片切片」\n- 「素材库」「创作」可折叠，展开状态会记住\n- 素材库搜索：按文件名、格式、类型和来源信息筛选，可与侧栏分类一起用\n- 浏览器采集公开页图片更稳",
   "releasedAt": "2026-10-09"
 }
