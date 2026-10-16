@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.0/Qeike-Setup-1.1.0.exe",
-  "sha256": "e5a7ebc69d88ad12a1506d75e759187fb71cb16dcd5705fd3715361b870794bd",
-  "size": 168620414,
+  "sha256": "bb6ba258935f76a489469d6f435057d1b94f21dc304cf6c5f43a7431799373b6",
+  "size": 168621799,
   "notes": "1.1.0\n\n- 浏览器扩展：Chrome / Edge / 360 同一套；另提供 Firefox 未签名临时加载包，以及 Safari 转换源与 Mac 打包说明（不声称已可用）\n- 四种采集方式：页面定向拖动、拖进 Qeike、右键采集、Alt+右键；均可在弹窗里开关；左上角红色小按钮保留，输入时自动隐藏\n- 素材库性能：索引优先打开、后台缩略图、虚拟列表，便于管理上万素材\n- 更多格式预览或图标：设计稿、相机 RAW、文档、音视频、文本代码、3D 模型等；不认识的格式也能进库\n- 更新下载首选 download.qeike.com，国内仍可用 update.qeike.com",
   "releasedAt": "2026-10-16"
 }
