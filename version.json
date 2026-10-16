@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.0.9/Qeike-Setup-1.0.9.exe",
-  "sha256": "6578bc9dff1a31aa73b91f23044857d27c001da27aaa86ce8dd98a97b63aa56d",
-  "size": 157205591,
-  "notes": "1.0.9\n\n- 新标题栏，跟随亮色 / 深色主题\n- 素材库：卡片上直接改名，多选后批量放进素材分组、复制、删除\n- 文件信息面板：名称、标签、备注、评分、来源、颜色、尺寸等，可直接修改、可搜索\n- 素材分组和关联文件夹可以一键隐藏，随时显示回来\n- Ctrl+C 复制原文件，或直接把素材拖到其他软件\n- 把网页图片拖进素材库或画布即可保存\n- 一键导入 Eagle / Billfish 素材库（只读取，不改动原素材库）\n- 搜索可以直接写“上周的红色横图”，新增颜色 / 尺寸 / 日期等筛选\n- 多层标签和素材分组，标签可分组、设置颜色\n- 图片编辑（调色、裁剪，不改原图）和画廊 / 幻灯片分享\n- 可以打开 PureRef 文件，更多格式能预览\n- 浏览器扩展：图片左上角的小按钮一键采集，失败会写明原因",
+  "version": "1.1.0",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.0/Qeike-Setup-1.1.0.exe",
+  "sha256": "e5a7ebc69d88ad12a1506d75e759187fb71cb16dcd5705fd3715361b870794bd",
+  "size": 168620414,
+  "notes": "1.1.0\n\n- 浏览器扩展：Chrome / Edge / 360 同一套；另提供 Firefox 未签名临时加载包，以及 Safari 转换源与 Mac 打包说明（不声称已可用）\n- 四种采集方式：页面定向拖动、拖进 Qeike、右键采集、Alt+右键；均可在弹窗里开关；左上角红色小按钮保留，输入时自动隐藏\n- 素材库性能：索引优先打开、后台缩略图、虚拟列表，便于管理上万素材\n- 更多格式预览或图标：设计稿、相机 RAW、文档、音视频、文本代码、3D 模型等；不认识的格式也能进库\n- 更新下载首选 download.qeike.com，国内仍可用 update.qeike.com",
   "releasedAt": "2026-10-16"
 }
