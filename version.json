@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.6/Qeike-Setup-1.1.6.exe",
-  "sha256": "86c954a29f1a3b923e0015ad693f78da00cf43a0cff65bfecbdbecb6aacea2d0",
-  "size": 171739672,
-  "notes": "1.1.6\n\n- 桌面便签打磨：单层浮窗、自由缩放、主题安全配色与专业图标；空状态去掉技术说明\n- 新增「连手机」：扫码连接 Android（局域网 / 互联网中继），协议对齐手机 1.0.2\n- 关主窗后便签仍可留在桌面；开机自启与清单/标签/提醒等能力保留",
+  "version": "1.1.7",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.7/Qeike-Setup-1.1.7.exe",
+  "sha256": "d81aa6d3d533c6064c0af868bd6c7011b3dd2ff296b5d61cda6d3306f63553a5",
+  "size": 171748058,
+  "notes": "1.1.7\n\n- 安装向导：重绘高清侧栏/页眉位图，减轻高 DPI 下 Q 标模糊变形\n- 连接移动端：修复互联网中继 AggregateError / relay_ws_error，IPv4 优先重试；侧栏「连手机」更名为「连接移动端」\n- 侧栏「效率翻倍」更名为「快捷工具」\n- 桌面便签：连续编辑时合并保存，避免标题/正文互相覆盖\n- 在线画布：降低远端成员光标滞后（更快 presence + 插值）",
   "releasedAt": "2026-10-17"
 }
