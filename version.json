@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.5/Qeike-Setup-1.1.5.exe",
-  "sha256": "0b3b143137e347a6ac9c7e84b77481bf301665539ec4c2365478bb9d8f017fec",
-  "size": 171459175,
-  "notes": "1.1.5\n\n- 创作新增「桌面便签」：免费透明浮窗，关主窗后仍留在桌面，可设开机自启\n- 桌面便签支持多清单、标签、置顶、待办、提醒与倒数，以及贴边收起、月历与时钟\n- 协作聊天与性能优化；画布工具组对齐、空库引导\n- 卸载时可保留素材库；便利贴样式独立\n- 稳定性与细节打磨",
+  "version": "1.1.6",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.6/Qeike-Setup-1.1.6.exe",
+  "sha256": "86c954a29f1a3b923e0015ad693f78da00cf43a0cff65bfecbdbecb6aacea2d0",
+  "size": 171739672,
+  "notes": "1.1.6\n\n- 桌面便签打磨：单层浮窗、自由缩放、主题安全配色与专业图标；空状态去掉技术说明\n- 新增「连手机」：扫码连接 Android（局域网 / 互联网中继），协议对齐手机 1.0.2\n- 关主窗后便签仍可留在桌面；开机自启与清单/标签/提醒等能力保留",
   "releasedAt": "2026-10-17"
 }
