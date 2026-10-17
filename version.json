@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.4/Qeike-Setup-1.1.4.exe",
-  "sha256": "949a8ce8066f4181a34b8b550d67691a1fbb846c79178f5571e398d9b32da42c",
-  "size": 171435574,
-  "notes": "1.1.4\n\n- 画布顶栏新增协作：主持、局域网与「在线画布」一键开房\n- 设置重新分组：通用、外观、采集、高级、快捷键、关于\n- 卡片悬停出现连接点，拖到另一张卡片即可连线；拖动时连线实时跟随\n- 便利贴与协作光标体验优化\n- 稳定性与细节打磨",
-  "releasedAt": "2026-10-16"
+  "version": "1.1.5",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.5/Qeike-Setup-1.1.5.exe",
+  "sha256": "0b3b143137e347a6ac9c7e84b77481bf301665539ec4c2365478bb9d8f017fec",
+  "size": 171459175,
+  "notes": "1.1.5\n\n- 创作新增「桌面便签」：免费透明浮窗，关主窗后仍留在桌面，可设开机自启\n- 桌面便签支持多清单、标签、置顶、待办、提醒与倒数，以及贴边收起、月历与时钟\n- 协作聊天与性能优化；画布工具组对齐、空库引导\n- 卸载时可保留素材库；便利贴样式独立\n- 稳定性与细节打磨",
+  "releasedAt": "2026-10-17"
 }
