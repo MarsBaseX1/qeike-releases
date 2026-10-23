@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.9/Qeike-Setup-1.1.9.exe",
-  "sha256": "d2743c33b33572767362a5f7e2cee801d7b8c5c27d0a4d06b9ee4f730d51924b",
-  "size": 161704328,
-  "notes": "1.1.9\n\n· 全新安装向导：Qeike 轻量风格界面（欢迎 / 协议 / 进度 / 完成），完成页可勾选立即打开应用\n· 安装向导全流程支持中英文界面切换（按钮/标签随语言切换，会话内记住选择）；协议内容中英双语\n· 安装向导中文 UTF-8（含 BOM）正确显示，不再出现乱码；协议页仅保留右上角全局中文|EN 切换（去掉重复的协议语言页签），全局切换同步协议正文\n· 安装目录可选（浏览文件夹），并正确安装到所选路径\n· 安装包标题栏红色 Q 图标；升级安装不再弹出「卸载时如何处理素材库」对话框（仅真正卸载时提示；升级保留素材库）\n· 内置浏览器与聚合搜索界面随语言切换完整英文化（含右键菜单、采集胶囊）\n· 浏览器体验打磨：加载失败提示、空标签标题随语言、收藏网站主机名回退等\n· 画布连线：连线时不出现选中外框/缩放手柄，拦截滚轮缩放，避免误触放大缩小；悬停端口与磁吸更稳\n· 素材库：可将素材拖入主区域子文件夹卡片；侧栏标签可拖到素材卡片打标\n· 启动与安装稳定性：better-sqlite3 原生模块懒加载、桌面/开始菜单快捷方式强制创建、安装包代码签名\n· 保持 1.1.7 Leafer 画布基础；延续修复启动白屏、画布工具栏/.qkp 打开等问题",
+  "version": "1.2.0",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.0/Qeike-Setup-1.2.0.exe",
+  "sha256": "2121790c15810cf3940a76e8b70c35afd8c60102e70b767b121280a7f41598e3",
+  "size": 160455888,
+  "notes": "Qeike 1.2.0\n稳定性与体验优化\n\n全面排查并修复已知问题，强化构建与运行资源管理，提升整体流畅度与响应速度。完善英文界面翻译，切换语言后体验更一致。\n\n---\n\nQeike 1.2.0\nStability & Performance\n\nBug fixes across the app, stronger build and runtime reliability, and smoother performance. Full English localization for a consistent experience when you switch languages.",
   "releasedAt": "2026-10-23"
 }
