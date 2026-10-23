@@ -1,8 +1,8 @@
 {
   "version": "1.1.8",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.8/Qeike-Setup-1.1.8.exe",
   "sha256": "59e3bf6bc59b7d6c36ce6873f0f1874ce9e23fdfd3a74a366e80350b34d9bec5",
   "size": 160445905,
-  "notes": "· 画布连线更好用：悬停显示端口（18px 视觉 / 34px 命中）、虚线/实心状态、磁吸吸附、Esc 取消；保持 1.1.7 Leafer 基础，参考 Toonflow 交互\n· 选中浮动条深色主题文字/图标改为近白高对比，暗色下可读\n· 顶栏灰色胶囊与红色标记对齐（红点光晕不再溢出）\n· 素材库：可将素材拖入主区域子文件夹卡片；拖动预览显示素材缩略图（非应用图标）\n· 侧栏标签可拖到素材卡片打标（已有标签自动跳过）\n· 延续修复：启动白屏、画布工具栏/.qkp 打开、画布恢复等 1.1.8 既有问题",
-  "releasedAt": "2026-10-23",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.1.8/Qeike-Setup-1.1.8.exe"
+  "notes": "Qeike 1.1.8",
+  "releasedAt": "2026-10-23"
 }
