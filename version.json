@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.0/Qeike-Setup-1.2.0.exe",
-  "sha256": "2121790c15810cf3940a76e8b70c35afd8c60102e70b767b121280a7f41598e3",
-  "size": 160455888,
-  "notes": "Qeike 1.2.0\n稳定性与体验优化\n\n全面排查并修复已知问题，强化构建与运行资源管理，提升整体流畅度与响应速度。完善英文界面翻译，切换语言后体验更一致。\n\n---\n\nQeike 1.2.0\nStability & Performance\n\nBug fixes across the app, stronger build and runtime reliability, and smoother performance. Full English localization for a consistent experience when you switch languages.",
-  "releasedAt": "2026-10-23"
+  "version": "1.2.1",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.1/Qeike-Setup-1.2.1.exe",
+  "sha256": "b5f57f6caa46fa1c0ded63fc76829d285b1a0790a116e0e37eee5598acac21ac",
+  "size": 161694520,
+  "notes": "Qeike 1.2.1\n采集能力与体验优化\n\n· 优化浏览器扩展与内置浏览器的采集兼容性和高清原图识别能力\n· 素材库拖动素材时自动显示缩略图预览\n· 修复已知问题并提升整体稳定性\n\n---\n\nQeike 1.2.1\nCollection & Experience Update\n\n· Improved web collection compatibility and high-resolution image detection\n· Automatic thumbnail preview when dragging items in the library\n· Stability improvements and bug fixes",
+  "releasedAt": "2026-10-26"
 }
