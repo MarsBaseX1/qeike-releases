@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.1/Qeike-Setup-1.2.1.exe",
-  "sha256": "b5f57f6caa46fa1c0ded63fc76829d285b1a0790a116e0e37eee5598acac21ac",
-  "size": 161694520,
-  "notes": "Qeike 1.2.1\n采集能力与体验优化\n\n· 优化浏览器扩展与内置浏览器的采集兼容性和高清原图识别能力\n· 素材库拖动素材时自动显示缩略图预览\n· 修复已知问题并提升整体稳定性\n\n---\n\nQeike 1.2.1\nCollection & Experience Update\n\n· Improved web collection compatibility and high-resolution image detection\n· Automatic thumbnail preview when dragging items in the library\n· Stability improvements and bug fixes",
-  "releasedAt": "2026-10-26"
+  "version": "1.2.2",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.2/Qeike-Setup-1.2.2.exe",
+  "sha256": "f46fd90872301dcdc34413d51c7b84589eb0ec01d5bd71b8642f42f31671839b",
+  "size": 161704408,
+  "notes": "Qeike 1.2.2\n浏览器扩展与素材库体验\n\n· 浏览器扩展改为自动连接本机 Qeike，无需端口与配对码；界面默认英文并支持多语言切换\n· 安装可选 Chrome 网上应用店（推荐）或本地可复制扩展路径（加载已解压）\n· 素材库类型筛选始终提供 GIF 选项\n· 界面与文案优化，修复已知问题\n\n---\n\nQeike 1.2.2\nBrowser extension & library\n\n· Browser extension auto-connects to Qeike on this PC — no port or pair code; English UI by default with multi-language switch\n· Install via Chrome Web Store (recommended) or copyable local folder path (load unpacked)\n· Library type filter always includes GIF\n· UI polish and bug fixes",
+  "releasedAt": "2026-10-30"
 }
