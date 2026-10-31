@@ -4,5 +4,14 @@
   "sha256": "c8eb67b2f0162afda93bc02412cf7920746d8f05db1443d96abd9d6eed2a7fd3",
   "size": 161886216,
   "notes": "Qeike 1.2.3\n激活与画布体验\n\n· 一键领取并激活（带进度）；同设备本周不重复领取\n· 修复扩展商店打开；激活页对比度改善\n· 叠放后支持展开与解除；画布显示精简（去掉数量标签与角标名）\n· 「创作」更名为「创作台」；图片切片与桌面便签归入快捷工具\n· 移动端中继二维码与传文件更稳定\n· 新应用图标\n\n---\n\nQeike 1.2.3\nActivation & canvas\n\n· One-click claim & activate (with progress); same device will not reclaim this week\n· Chrome Web Store open fix; clearer activation contrast\n· Stack expand & unstack; cleaner canvas labels (no count tags / corner names)\n· “Create” renamed to “Studio”; Image slice & Desktop Notes under Quick tools\n· More stable mobile relay QR & file transfer\n· Refreshed app icon",
-  "releasedAt": "2026-10-31"
+  "releasedAt": "2026-10-31",
+  "android": {
+    "version": "1.0.3",
+    "versionCode": 4,
+    "url": "https://download.qeike.com/Qeike-1.0.3.apk",
+    "sha256": "8234257d5171cf3d8aaf3c53535a1aaa4f8bd622f03f60793ab69aa7ab58f25a",
+    "size": 123067196,
+    "notes": "Qeike Android 1.0.3\n界面与品牌\n\n· 界面精修：统一间距圆角、几何图标底栏、激活/素材库/传输页更清晰\n· 品牌图标对齐 Windows 1.2.3（红底圆角白几何 Q）\n· 与电脑双向传文件：扫描桌面二维码，经 qeike.com/xfer HTTPS 中继\n\n---\n\nQeike Android 1.0.3\nUI & brand\n\n· UI polish: tighter layout, geometric tab icons, clearer activation / library / transfer\n· Brand icon matches Windows 1.2.3 (red squircle + white geometric Q)\n· Bidirectional PC transfer: scan desktop QR via qeike.com/xfer HTTPS relay",
+    "releasedAt": "2026-10-31"
+  }
 }
