@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.2/Qeike-Setup-1.2.2.exe",
-  "sha256": "f46fd90872301dcdc34413d51c7b84589eb0ec01d5bd71b8642f42f31671839b",
-  "size": 161704408,
-  "notes": "Qeike 1.2.2\n浏览器扩展与素材库体验\n\n· 浏览器扩展改为自动连接本机 Qeike，无需端口与配对码；界面默认英文并支持多语言切换\n· 安装可选 Chrome 网上应用店（推荐）或本地可复制扩展路径（加载已解压）\n· 素材库类型筛选始终提供 GIF 选项\n· 界面与文案优化，修复已知问题\n\n---\n\nQeike 1.2.2\nBrowser extension & library\n\n· Browser extension auto-connects to Qeike on this PC — no port or pair code; English UI by default with multi-language switch\n· Install via Chrome Web Store (recommended) or copyable local folder path (load unpacked)\n· Library type filter always includes GIF\n· UI polish and bug fixes",
-  "releasedAt": "2026-10-30"
+  "version": "1.2.3",
+  "url": "https://github.com/MarsBaseX1/qeike-releases/releases/download/v1.2.3/Qeike-Setup-1.2.3.exe",
+  "sha256": "c8eb67b2f0162afda93bc02412cf7920746d8f05db1443d96abd9d6eed2a7fd3",
+  "size": 161886216,
+  "notes": "Qeike 1.2.3\n激活与画布体验\n\n· 一键领取并激活（带进度）；同设备本周不重复领取\n· 修复扩展商店打开；激活页对比度改善\n· 叠放后支持展开与解除；画布显示精简（去掉数量标签与角标名）\n· 「创作」更名为「创作台」；图片切片与桌面便签归入快捷工具\n· 移动端中继二维码与传文件更稳定\n· 新应用图标\n\n---\n\nQeike 1.2.3\nActivation & canvas\n\n· One-click claim & activate (with progress); same device will not reclaim this week\n· Chrome Web Store open fix; clearer activation contrast\n· Stack expand & unstack; cleaner canvas labels (no count tags / corner names)\n· “Create” renamed to “Studio”; Image slice & Desktop Notes under Quick tools\n· More stable mobile relay QR & file transfer\n· Refreshed app icon",
+  "releasedAt": "2026-10-31"
 }
