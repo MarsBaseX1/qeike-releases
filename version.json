@@ -6,12 +6,12 @@
   "notes": "Qeike 1.2.4\n手机与电脑互传\n\n· 修复手机经互联网中继向电脑传图卡住超时\n· 大图双向传输更稳定可靠\n\n---\n\nQeike 1.2.4\nPhone ↔ PC transfer\n\n· Fixed phone→PC transfers stalling over internet relay\n· More reliable large-image transfer both ways",
   "releasedAt": "2026-11-01",
   "android": {
-    "version": "1.0.4",
-    "versionCode": 5,
-    "url": "https://download.qeike.com/Qeike-1.0.4.apk",
-    "sha256": "71602b997b4ea8928aecc937881d3ae72b4e8a61955dbf83d9c9f1602a426ea9",
-    "size": 122919820,
-    "notes": "Qeike Android 1.0.4\n图标与连接\n\n· 修复桌面图标左上角白色折角（自适应：纯色红底 + 白色 Q）\n· 互联网中继二维码始终走 HTTPS 长轮询（不再误走 WebSocket）\n· 局域网连不上时提示改用电脑端「互联网中继」\n\n---\n\nQeike Android 1.0.4\nIcon & connect\n\n· Fix white dog-ear on launcher icon (adaptive: solid red + white Q)\n· Relay QR always uses HTTPS long-poll (never WebSocket)\n· Clearer LAN failure hint: use PC “Internet relay”",
-    "releasedAt": "2026-10-31"
+    "version": "1.0.6",
+    "versionCode": 7,
+    "url": "https://download.qeike.com/Qeike-1.0.6.apk",
+    "sha256": "117ba6831a5696888baf4c31cd54bd39a32be697c9824b3f4ec5556dea9d30ec",
+    "size": 123455736,
+    "notes": "Qeike Android 1.0.6\n传文件与素材库\n\n· 素材分组可用：勾选即时刷新；点分组进库筛选\n· 传文件口语提示；成功写入电脑/手机素材库\n· 中继更稳：48k 分片、accept 竞态修复、chunk 确认、收包空闲加长与心跳\n· 调试信息可复制；图标与启动屏对齐桌面红白 Q\n\n---\n\nQeike Android 1.0.6\nTransfer & library\n\n· Groups work: instant checkbox refresh; tap group to filter library\n· Plain-language transfer status; files land in PC/phone library\n· More stable relay: 48k chunks, accept race fix, chunk acks, longer recv idle + heartbeat\n· Copyable debug sheet; icon/splash match desktop red/white Q",
+    "releasedAt": "2026-11-01"
   }
 }
