@@ -1,10 +1,10 @@
 {
-  "version": "1.2.4",
-  "url": "https://update.qeike.com/Qeike-Setup-1.2.4.exe",
-  "sha256": "7a712b97aaef89d38f27fdaef7cb762144c61f64d283e3b2d957800a5d63e4fd",
-  "size": 161891080,
-  "notes": "Qeike 1.2.4\n手机与电脑互传\n\n· 修复手机经互联网中继向电脑传图卡住超时\n· 大图双向传输更稳定可靠\n\n---\n\nQeike 1.2.4\nPhone ↔ PC transfer\n\n· Fixed phone→PC transfers stalling over internet relay\n· More reliable large-image transfer both ways",
-  "releasedAt": "2026-11-01",
+  "version": "1.2.5",
+  "sha256": "54e3c78de5dca7a39c663c396b59e9ebed1858543556451ff5db9b033404fb2a",
+  "size": 118594152,
+  "notes": "Qeike 1.2.5\n帐户与字体库\n\n· 帐户系统：注册码一键注册/登录，最多同时 3 台；密码可稍后设置\n· 字体库完善：标签对齐素材库、启用支持 Figma、预览文案更新，打开更快\n· 组件市场瘦包，安装包更小\n\n---\n\nQeike 1.2.5\nAccounts & font library\n\n· Account system: register/sign in with a license code; up to 3 devices; password optional later\n· Font library: tags match the asset library, enable for Figma, new preview copy, faster open\n· Slimmer component market package; smaller installer",
+  "releasedAt": "2026-11-06",
+  "url": "https://update.qeike.com/Qeike-Setup-1.2.5.exe",
   "android": {
     "version": "1.0.6",
     "versionCode": 7,
