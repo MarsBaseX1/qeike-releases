@@ -1,10 +1,10 @@
 {
-  "version": "1.2.5",
-  "sha256": "54e3c78de5dca7a39c663c396b59e9ebed1858543556451ff5db9b033404fb2a",
-  "size": 118594152,
-  "notes": "Qeike 1.2.5\n帐户与字体库\n\n· 帐户系统：注册码一键注册/登录，最多同时 3 台；密码可稍后设置\n· 字体库完善：标签对齐素材库、启用支持 Figma、预览文案更新，打开更快\n· 组件市场瘦包，安装包更小\n\n---\n\nQeike 1.2.5\nAccounts & font library\n\n· Account system: register/sign in with a license code; up to 3 devices; password optional later\n· Font library: tags match the asset library, enable for Figma, new preview copy, faster open\n· Slimmer component market package; smaller installer",
-  "releasedAt": "2026-11-06",
-  "url": "https://update.qeike.com/Qeike-Setup-1.2.5.exe",
+  "version": "1.2.6",
+  "sha256": "10e9fa924c92940533f7ec856d2ff6394a94d39c8339db0c5a9bf5616fd09d2d",
+  "size": 127346560,
+  "notes": "Qeike 1.2.6\n云空间\n\n· 云空间布局更简洁，文件浏览更清晰\n· 从素材库上传可预览缩略图并多选\n· 本机新上传的视频可显示封面\n· 优化小窗口工具栏，并修复托盘重复图标\n· 账户容量仅显示已用与总量\n\n---\n\nQeike 1.2.6\nCloud storage\n\n· Cleaner cloud layout for easier browsing\n· Upload from the library with thumbnail previews and multi-select\n· Newly uploaded videos can show a cover on this device\n· Improved small-window toolbar and fixed duplicate tray icons\n· Account storage shows used and total only",
+  "releasedAt": "2026-11-16",
+  "url": "https://update.qeike.com/Qeike-Setup-1.2.6.exe",
   "android": {
     "version": "1.0.6",
     "versionCode": 7,
